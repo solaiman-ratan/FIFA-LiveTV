@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://i.imgur.com/8N69F0r.png" group-title="Sports",Sony Sports Ten 2 HD
-https://iptv-org.github.io/iptv/categories/sports.m3u
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/7bZgLw5.png" group-title="Sports",Sky Sports Main Event
+http://110.158.204.14:8080/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="BeINSports1.fr" tvg-name="beIN Sports 1" tvg-logo="https://i.imgur.com/uC5U62h.png" group-title="Sports",beIN Sports 1
+http://110.158.204.14:8080/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Sports Ten 1" tvg-logo="https://i.imgur.com/4z8wY0u.png" group-title="Sports",Sony Sports Ten 1
+http://110.158.204.14:8080/play/a044/index.m3u8
