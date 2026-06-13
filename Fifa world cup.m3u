@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://i.imgur.com/8NdfI9N.png" group-title="Bangladesh",BTV (National)
-https://btvlive.shurwi.tv/live/btv_live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram" tvg-logo="https://i.imgur.com/8NdfI9N.png" group-title="Bangladesh",BTV Chattogram
-https://btvlive.shurwi.tv/live/btv_ctg/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/vHdfD8A.png" group-title="News",DW English (Live)
+https://dwamdstream102.akamaized.net/hls/live/2015532/dwamdstream102/index.m3u8
