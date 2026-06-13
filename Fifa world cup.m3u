@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://i.imgur.com/vHdfD8A.png" group-title="News",DW English (Live)
-https://dwamdstream102.akamaized.net/hls/live/2015532/dwamdstream102/index.m3u8
+#EXTINF:-1 tvg-id="T-Sports.bd" tvg-name="T Sports" tvg-logo="https://i.imgur.com/7bZgLw5.png" group-title="Sports",T-Sports (BD)
+https://raw.githubusercontent.com/imShakil/tvlink/main/tsports.m3u8
