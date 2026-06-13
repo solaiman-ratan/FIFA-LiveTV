@@ -1,17 +1,11 @@
 #=================================
-# Developed By: ABU SAEEiD × Rifaz
-# GitHub @abusaeeidx
-# IPTV Telegram Channels: @xfireflixbd
-# Last Updated: 2026-06-14 01:51 AM (BD Time)
-# Disclaimer:
-# This tool does NOT host any content.
-# It aggregates publicly available data for informational purposes only.
-# For any issues or concerns, please contact the developer.
+# Developed By: Solaiman Ratan
+# Last Updated: 2026-06-14 02:15 AM (BD Time)
 #==================================
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
-https://playztv.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-name="Welcome to Solaiman TV" group-title="Welcome to Solaiman TV | Live",Welcome to Solaiman TV
+https://raw.githubusercontent.com/imShakil/tvlink/main/btv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
